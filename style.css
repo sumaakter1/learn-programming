@@ -17,3 +17,20 @@ body {
   height: 40vh;
   width: 170vh;
 }
+/* footer  */
+.footer {
+  background: #161616;
+  height: 350px;
+  color: #e8e8e8;
+}
+.socials {
+  list-style: none;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+.socials a {
+  color: #fff;
+}
